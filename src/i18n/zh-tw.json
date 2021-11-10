@@ -1,0 +1,19 @@
+{
+    "header":{
+        "my_music":"我的音樂",
+        "find_music":"發現音樂",
+        "login":"登錄",
+        "center":"個人中心",
+        "setting":"個人設置",
+        "logout":"退出登錄",
+        "type":"繁體中文",
+        "recommend":"推薦",
+        "new_song":"新歌",
+        "ranking_list":"排行榜",
+        "name":"網易雲音樂",
+        "input":"音樂/歌手"
+    },
+    "footer":{
+        "copyright":"版權所有@網易雲"
+    }
+}

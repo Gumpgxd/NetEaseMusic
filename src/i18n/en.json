@@ -1,0 +1,19 @@
+{
+    "header":{
+        "my_music":"My Music",
+        "find_music":"Find Music",
+        "login":"Login",
+        "center":"Personal Center",
+        "setting":"Settings",
+        "logout":"Log Out",
+        "type":"English",
+        "recommend":"Recommend",
+        "new_song":"New Song",
+        "ranking_list":"Ranking List",
+        "name":"NetEase Music",
+        "input":"music/singer"
+    },
+    "footer":{
+        "copyright":"Copyright@NetEase Music"
+    }
+}

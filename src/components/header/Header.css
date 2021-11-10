@@ -1,0 +1,19 @@
+.ant-menu-horizontal {
+    line-height: 60px !important;
+}
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected {
+    background-color: #000000 !important;
+}
+  
+.ant-menu-item-active {
+    background-color: #000000 !important;
+}
+  
+.ant-menu.ant-menu-dark {
+    background-color: #303030 !important;
+}
+
+.ant-input-affix-wrapper {
+    border-radius: 16px !important;
+}

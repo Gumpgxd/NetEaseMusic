@@ -1,0 +1,110 @@
+.home {
+    width: 1000px;
+    background-color: #fff;
+    margin: 0 auto;
+    /* height: 1000px; */
+    border-left: 1px solid #d4d3d3;
+    border-right: 1px solid #d4d3d3;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.music-message {
+    height: 200px;
+    width: 200px;
+    margin: 20px 20px 10px 20px;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.img:hover {
+    transform: scale(1.1);
+}
+
+.img {
+    transition: all 0.6s;
+}
+
+.play_list {
+    border-top: 2px solid rgb(51, 50, 50);
+    width: 200px;
+    height: 30px;
+    z-index: 999;
+    position: absolute;
+    background-color: rgb(71, 70, 70);
+    opacity: 0.6;
+    bottom: 0;
+    text-align: right;
+}
+
+.music_name {
+    width: 200px;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow:ellipsis;
+    margin: 0 20px;
+    color: #3f3e3e;
+}
+
+.ranking_home {
+    width: 1000px;
+    background-color: #fff;
+    margin: 0 auto;
+    /* height: 1000px; */
+    border-left: 1px solid #d4d3d3;
+    border-right: 1px solid #d4d3d3;
+    padding-top: 20px;
+}
+
+.left_name {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    cursor: pointer;
+}
+
+.left_name_active {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    cursor: pointer;
+    background-color: #dddddd;
+}
+
+.left_name:hover {
+    background-color: #f0f0f0;
+}
+
+.name_left {
+    width: 30%;
+    height: 100%;
+    line-height: 61px;
+    padding-right: 3px;
+    text-align: right;
+}
+
+.name_right {
+    width: 70%;
+    padding-left: 10px;
+    height: 100%;
+    margin-top: 7px;
+}
+
+.right_box {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.list_component:nth-child(odd) {
+    background-color: #e2e1e1;
+}
+
+.header {
+    height: 40px;
+    border-bottom: 2px solid #C20C0C;
+}

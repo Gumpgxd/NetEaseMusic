@@ -1,0 +1,87 @@
+.header {
+    background-color: #303030;
+    width: 100%; 
+    border-bottom: 4px solid #C20C0C;
+}
+
+.logo_img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.logo_box {
+    cursor: pointer;
+    margin-right: 20px;
+    display: flex;
+}
+
+.img_logo_box {
+    line-height: 55px;
+}
+
+.logo_span {
+    line-height: 60px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.header_width {
+    height: 60px;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+}
+
+.search_user {
+    position: absolute;
+    right: 0;
+    line-height: 60px;
+    display: flex;
+}
+
+.user_avater {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.dropdown:hover {
+    background-color: #202020 !important;
+}
+
+.active-menu {
+    background-color: #000;
+    color: #fff !important;
+}
+
+.menu_color {
+    color: #fff;
+}
+
+.trangle{
+    width: 0px;
+    height: 0px;
+    border-bottom: 5px solid #C20C0C;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    position: absolute;
+    bottom:0;
+    left: 25%;
+    transform: translateX(-50%);
+}
+
+.trangle2{
+    width: 0px;
+    height: 0px;
+    border-bottom: 5px solid #C20C0C;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    position: absolute;
+    bottom:0;
+    left: 75%;
+    transform: translateX(-50%);
+}
